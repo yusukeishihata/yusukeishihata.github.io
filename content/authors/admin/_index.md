@@ -21,7 +21,7 @@ interests:
   - Labor Economics
   - Economics of the Family
   - Economics of Education
-  - Structural Econometrics
+  - Applied Microeconomics
 
 # Education to show in About widget
 education:
@@ -72,6 +72,7 @@ highlight_name: false
 ---
 
 I am a third-year Ph.D. student in economics at Duke University.
-My research interests lie in labor economics, the economics of the family, the economics of education.
+My research interests lie in labor economics, the economics of the family, the economics of education, and structural microeconometrics.
+I have broad theoretical and empirical interests in topics such as job search, marriage market matching, gender inequality, and intra-household decisions.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "tex/yusukeishihata_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
