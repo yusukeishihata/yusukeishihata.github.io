@@ -39,10 +39,11 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: yusukeishihata
   - block: collection
+    id: publications
     content:
       title: Publications
       text: |-
@@ -57,12 +58,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+  id: workingpaper
     content:
       title: Working Paper/Work in Progress
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
       filters:
         folders:
           - publication
