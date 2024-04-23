@@ -58,7 +58,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-  id: workingpaper
+    id: workingpaper
     content:
       title: Working Paper/Work in Progress
       filters:
