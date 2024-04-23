@@ -43,7 +43,6 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: yusukeishihata
   - block: collection
-    id: publications
     content:
       title: Publications
       text: |-
@@ -58,7 +57,6 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: workingpaper
     content:
       title: Working Paper/Work in Progress
       filters:
