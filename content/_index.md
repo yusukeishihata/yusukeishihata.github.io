@@ -32,7 +32,7 @@ sections:
       title: Working Paper/Work in Progress
       filters:
         folders:
-          - publication
+          - publication/workfromhome2024
         exclude_featured: true
     design:
       columns: '2'
