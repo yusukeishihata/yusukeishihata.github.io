@@ -15,10 +15,10 @@ sections:
     id: publications
     content:
       title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      #text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
       filters:
         folders:
           - publication
@@ -32,7 +32,7 @@ sections:
       title: Working Paper/Work in Progress
       filters:
         folders:
-          - publication/workfromhome2024
+          - workingpaper
         exclude_featured: true
     design:
       columns: '2'
