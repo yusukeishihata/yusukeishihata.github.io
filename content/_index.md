@@ -41,7 +41,7 @@ sections:
     content:
       title: Welcome!
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: yusukeishihata
+      username: admin
   - block: collection
     content:
       title: Publications
