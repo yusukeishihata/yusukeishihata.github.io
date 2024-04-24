@@ -12,7 +12,6 @@ publication: '*Review of Economics of the Household*'
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
 #publication_types: ["2"]
-publication_types: Journal article
 selected: false
 title: 'Working from Home Leads to More Family-Oriented Men'
 links:
