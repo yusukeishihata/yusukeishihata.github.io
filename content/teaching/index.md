@@ -27,4 +27,12 @@ tags:
   - Teaching
 ---
 
-TBA
+*Duke University*
+Structural Methods in Labor (ECON 890, Ph.D.) | Fall 2023 | Instructor: Pengpeng Xiao
+Econometrics II (ECON 707, Ph.D.) | Spring 2023 | Instructors: Adam Rosen and Anna Bykhovskaya
+Econometrics I (ECON 703, Ph.D.) | Fall 2022 | Instructor: Matt Masten
+
+---
+
+*University of Tokyo*
+Econometrics II (Ph.D.) | Spring 2020 | Instructor: Hidehiko Ichimura
