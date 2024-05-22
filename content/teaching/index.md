@@ -27,7 +27,7 @@ tags:
   - Teaching
 ---
 
-**Duke University**
+### **Duke University**
 
 Structural Methods in Labor (ECON 890, Ph.D.) | Fall 2023 | TA for Pengpeng Xiao
 
@@ -41,7 +41,9 @@ Econometrics I (ECON 703, Ph.D.) | Fall 2022 | TA for Matt Masten
 
 Econometrics II (Ph.D.) | Spring 2020 | TA for Hidehiko Ichimura
 
----
+
+
 ### **Japan Center for Economic Research**
+---
 
 Data Science Course | 2020 | TA for Yasutora Watanabe
