@@ -25,6 +25,8 @@ featured: false
 
 tags:
   - Teaching
+
+id: teaching
 ---
 
 ### **Duke University**
@@ -39,11 +41,9 @@ Econometrics I (ECON 703, Ph.D.) | Fall 2022 | TA for Matt Masten
 
 ### **University of Tokyo**
 
-Econometrics II (Ph.D.) | Spring 2020 | TA for Hidehiko Ichimura
+Econometrics II (Graduate Coursework) | Spring 2020 | TA for Hidehiko Ichimura
 
-
-
-### **Japan Center for Economic Research**
 ---
+### **Japan Center for Economic Research**
 
 Data Science Course | 2020 | TA for Yasutora Watanabe
