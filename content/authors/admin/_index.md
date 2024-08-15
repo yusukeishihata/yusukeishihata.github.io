@@ -72,7 +72,7 @@ highlight_name: false
 ---
 
 I am a third-year Ph.D. student in economics at Duke University.
-My research interests lie in labor economics, the economics of the family, and the economics of education, with a paticular focus on structural methods.
-I have broad theoretical and empirical interests in topics such as job search, gender inequality, marriage market matching, and intra-household decision-making.
+My research interests lie in labor economics, the economics of the family, and the economics of education, with a particular focus on structural methods.
+I have broad theoretical and empirical interests in topics such as job search, marriage market matching, fertility, and intra-household decision-making.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "tex/yusukeishihata_cv.pdf" "newtab" >}}CV{{< /staticref >}}.
