@@ -62,7 +62,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: tex/yusukeishihata_cv.pdf
+  link: tex/CV_Yusuke_Ishihata.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
