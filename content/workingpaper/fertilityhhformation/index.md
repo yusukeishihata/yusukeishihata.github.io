@@ -11,7 +11,7 @@ date: 2024-09-01
 # 7 = Thesis; 8 = Patent
 publication_types: ["3"]
 selected: false
-title: 'Fertility and Household Formation' (Working Title)
+title: 'Fertility and Household Formation (working title)'
 #links:
 #  - name: Review of Economics of the Household
 #    url: https://link.springer.com/article/10.1007/s11150-023-09682-6
