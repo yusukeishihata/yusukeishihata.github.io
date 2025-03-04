@@ -2,7 +2,7 @@
 publishDate: "2017-01-01T00:00:00Z" # this is required to make the publication show up
 abstract: We examine how working from home (WFH) affects men’s participation in childcare and housework and their attitudes toward family. Because WFH is an endogenous decision, we apply a first-difference instrumental variable estimator, taking the degree to which one can work from home, measured at the individual level, as the instrument. We find that WFH increases the time that men spend on household chores and with family, and the fraction of men who consider life more important than work. Although WFH decreases their commuting time, we find no evidence that it reduces working hours or self-perceived productivity.
 authors:
-- Chihiro inoue
+- Chihiro Inoue
 - Yusuke Ishihata
 - Shintaro Yamaguchi
 date: 2024-06-01
@@ -17,8 +17,6 @@ title: 'Working from Home Leads to More Family-Oriented Men'
 links:
   - name: Review of Economics of the Household
     url: https://link.springer.com/article/10.1007/s11150-023-09682-6
-  - name: Chihiro Inoue
-    url: https://sites.google.com/view/chihiroinoue
 url_pdf: /pdf/workfromhome2024.pdf
 url_preprint: ''
 ---
