@@ -44,7 +44,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yusuke.ishihata@duke.edu'
-- icon: X
+- icon: x
   icon_pack: fab
   link: https://x.com/yusuke_ishihata
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
