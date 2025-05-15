@@ -47,6 +47,9 @@ social:
 - icon: x
   icon_pack: fab
   link: https://x.com/yusuke_ishihata
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/yusuke-ishihata.bsky.social
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?user=ncMB16kAAAAJ
