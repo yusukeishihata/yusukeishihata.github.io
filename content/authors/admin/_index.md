@@ -44,18 +44,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yusuke.ishihata@duke.edu'
-- icon: twitter
+- icon: X
   icon_pack: fab
   link: https://x.com/yusuke_ishihata
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.com/citations?user=40Tdn0sAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=ncMB16kAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/yusukeishihata
-# - icon: linkedin
-#   icon_pack: fab
-#   link: https://www.linkedin.com/
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yusuke-ishihata-9a2b75302
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
