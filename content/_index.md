@@ -12,6 +12,17 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: workingpaper
+    content:
+      title: Work in Progress
+      filters:
+        folders:
+          - workingpaper
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: publications
     content:
       title: Publications
@@ -22,17 +33,6 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: workingpaper
-    content:
-      title: Working Paper/Work in Progress
-      filters:
-        folders:
-          - workingpaper
         exclude_featured: true
     design:
       columns: '2'
