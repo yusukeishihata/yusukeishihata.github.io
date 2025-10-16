@@ -10,7 +10,7 @@ main:
   - name: Research
     url: '#research'
     weight: 20
-  - name: Work in Progress
+  - name: Selected Work in Progress
     url: '#workingpaper'
     parent: 'Research'
     weight: 1

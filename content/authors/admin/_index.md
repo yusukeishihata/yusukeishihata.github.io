@@ -21,7 +21,6 @@ interests:
   - Labor Economics
   - Economics of the Family
   - Economics of Education
-  - Applied Microeconomics
 
 # Education to show in About widget
 education:
